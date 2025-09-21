@@ -1,0 +1,4 @@
+name: Lint Workflow
+version: 1
+steps:
+  - npm run lint
